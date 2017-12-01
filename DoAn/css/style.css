@@ -1,0 +1,14 @@
+.container-fluid {
+    background: url('../img/nen.jpg');
+    min-height: 800px;
+}
+
+.container {
+    margin-top: 70px;
+    background: #ddd;
+    min-height: 500px;
+}
+
+.contetent {
+	.min-height: 400px;
+}
